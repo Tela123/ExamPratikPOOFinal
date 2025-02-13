@@ -1,0 +1,20 @@
+[
+    {
+        "titre": null,
+        "auteur": null,
+        "annee": null,
+        "genre": null
+    },
+    {
+        "titre": "tela best seller",
+        "auteur": "tela",
+        "annee": "2013",
+        "genre": "roman"
+    },
+    {
+        "titre": "you are the queen",
+        "auteur": "tela",
+        "annee": "2020",
+        "genre": "roman"
+    }
+]
